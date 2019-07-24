@@ -1,5 +1,7 @@
 # TrafficSignalRecognitionSystem
 
+This traffic signal recognition system is my university-level innovation project, and I will show some effects below. Since I completed it in my freshman year, this is only a very simple algorithm, and there is a lot of room for optimization.
+
 setp1: RGB2HSV
 
 ![pic](pic/1.png)
